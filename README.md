@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Stakeholder Management**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
+I am a 3rd-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Relationship Building**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
+
 
 - 🚀 **I’m currently working on:** Building backend services and RESTful APIs.
-- 🌱 **I’m currently learning:** Advanced system design and software architecture.
-- 💡 **I’m interested in:** Product Management and high-performance computing systems.
+- 🌱 **I’m currently learning:** Cloud Computing, Data Science, and Data Engineering.
+- 💡 **I’m exploring:** Product Management and High-Performance Computing Architectures.
 - 👯 **Leadership:** President of **Larngear Camp 25th**  and Coordinator at the Engineering Student Committee.
 
 ---
