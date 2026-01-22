@@ -64,7 +64,7 @@ I am a 3rd-year Computer Engineering student at Chulalongkorn University with a 
 - **Relational Database Design:** Implemented a large-scale event management platform with schema optimization.
 
 ---
-<div align="center">
+<!--div align="center">
   
 ### 📈 GitHub Stats
 ![Jaetanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiartty&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
