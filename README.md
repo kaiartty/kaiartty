@@ -1,60 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-# Hey there, I'm Jaetanat! 👋
+# Hey there, I'm Jaetanat! (Art) 👋
 
-### Bachelor of Computer Engineering Student @ Chulalongkorn University 
-[cite_start]*(Expected May 2027)* 
+#### Computer Engineering Student @ Chulalongkorn University
+*(Expected May 2027)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaetanat.p@gmail.com) 
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaetanat-pangpangpit-2a863b388)
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaetanat.p@gmail.com)
 
----
-
-## 👨‍💻 About Me
-[cite_start]I am a Computer Engineering student with a strong background in **Full-Stack Development** and **Database Management**. [cite_start]I enjoy building scalable applications and working in Agile teams to deliver quality products.
-
-- [cite_start]🚀 **Currently focused on:** Full-stack development with Next.js and Nest.js.
-- [cite_start]🏫 **Education:** Chulalongkorn University (Aug 2023 - Present).
-- [cite_start]🏆 **Leadership:** Served as President of **Larngear Camp 25th**, leading over 800 staff members.
-- [cite_start]🗣️ **Languages:** Thai (Native) and English (Fluent).
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-### 🌐 Frontend & Backend
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[cite_start]![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+I am a 3rd-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Stakeholder Management**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
 
-### 🗄️ Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-[cite_start]![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+- 🚀 **I’m currently working on:** Building backend services and RESTful APIs.
+- 🌱 **I’m currently learning:** Advanced system design and software architecture.
+- 💡 **I’m interested in:** Product Management and high-performance computing systems.
+- 👯 **Leadership:** President of **Larngear Camp 25th**  and Coordinator at the Engineering Student Committee.
 
 ---
 
-## 📈 GitHub Stats
-![Jaetanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> 
+
+**Frontend & Tools**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> 
+
+**Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+
+</div>
 
 ---
 
-## 🌟 Highlight Projects
-- [cite_start]**Job Fair Web Application:** Backend services with Node.js, Express, and MongoDB Atlas.
-- [cite_start]**Full-stack Local Database Project:** Transformed into a web app using Next.js and Nest.js.
-- [cite_start]**Large-scale Event Database:** Relational database design with normalization and schema optimization.
+### 🌟 Featured Projects
+
+- **Job Fair Web Application:** Developed backend services using Node.js, Express, and MongoDB Atlas.
+- **Full-stack Web Application:** Transformed a local database project using Next.js and Nest.js.
+- **Relational Database Design:** Implemented a large-scale event management platform with schema optimization.
+
+---
+<div align="center">
+  
+### 📈 GitHub Stats
+![Jaetanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiartty&show_icons=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiartty&layout=compact&theme=dark)
+
+</div>
 
 <!--
 **kaiartty/kaiartty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
