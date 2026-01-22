@@ -66,9 +66,9 @@ I am a 3rd-year Computer Engineering student at Chulalongkorn University with a 
 <div align="center">
   
 ### 📈 GitHub Stats
-![Jaetanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiartty&show_icons=true&theme=dark)
+![Jaetanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiartty&show_icons=true&theme=dark&include_all_commits=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiartty&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiartty&layout=compact&theme=dark&include_all_commits=true)
 
 </div>
 
