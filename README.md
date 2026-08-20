@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Relationship Building**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
+I am a 4th-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Relationship Building**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
 
 
 - 🚀 **I’m currently working on:** Building backend services and RESTful APIs.
