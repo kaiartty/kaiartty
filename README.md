@@ -14,13 +14,18 @@
 
 ### 👨‍💻 About Me
 
-I am a 4th-year Computer Engineering student at Chulalongkorn University with a strong focus on **Project Management** and **Relationship Building**. I have experience working in **Agile Scrum** environments to deliver scalable web applications.
+I am a 4th-year Computer Engineering student at Chulalongkorn University with hands-on experience in **Data & AI Engineering**, **Cloud Infrastructure**, and **Enterprise Systems**. Previously an AI & Automation Engineering Intern at **CIMB Thai Bank**, I specialize in building robust cloud-native architectures, deep learning models, and production-ready data pipelines.
 
 
-- 🚀 **I’m currently working on:** Building backend services and RESTful APIs.
-- 🌱 **I’m currently learning:** Cloud Computing, Data Science, and Data Engineering.
-- 💡 **I’m exploring:** Product Management and High-Performance Computing Architectures.
-- 👯 **Leadership:** President of **Larngear Camp 25th**  and Coordinator at the Engineering Student Committee.
+- 🔭 **Currently Working On:** 
+  - Deep Learning for surgical difficulty prediction (Computer Vision Capstone in collaboration with PSU Dentistry).
+  - Bare-metal 5-node distributed Kubernetes (K3s) cloud platform (**PiCloud**).
+- 💼 **Past Experience:** 
+  - Enterprise LLM Agents, Grounded RAG, and ACA GitOps pipelines at **CIMB Thai Bank**.
+- 🛠️ **Core Focus:** Cloud Architecture (AWS / Azure), Distributed Systems, FastAPI, and Data Engineering.
+- 👥 **Leadership:** 
+  - **President**, Larngear Camp 25th (Mobilized 800+ student staff team).
+  - **Coordinator**, Engineering Student Committee (Cross-functional team coordination).
 
 ---
 
@@ -29,29 +34,44 @@ I am a 4th-year Computer Engineering student at Chulalongkorn University with a 
 <div align="center">
 
 **Languages**
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> 
 
-**Frontend & Tools**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> 
+**Cloud & DevOps**
 
-**Backend & Database**
-<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> 
+
+
+**AI & Data Science**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> 
+
+**Backend & Web**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /> 
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /> 
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" /> 
 
 </div>
 
