@@ -79,9 +79,21 @@ I am a 4th-year Computer Engineering student at Chulalongkorn University with ha
 
 ### 🌟 Featured Projects
 
-- **Job Fair Web Application:** Developed backend services using Node.js, Express, and MongoDB Atlas.
-- **Full-stack Web Application:** Transformed a local database project using Next.js and Nest.js.
-- **Relational Database Design:** Implemented a large-scale event management platform with schema optimization.
+- 🦷 **Surgical Difficulty Prediction in M3M Surgery** `(Senior Capstone)`
+  > Deep learning model segmenting 5 critical anatomical structures on panoramic radiographs to benchmark extraction difficulty against clinical scales.
+  > `PyTorch` `Computer Vision` `Medical AI`
+
+- ☁️ **PiCloud: Bare-Metal Cloud Platform**
+  > Distributed 5 tier microservices on a 5 node Raspberry Pi Kubernetes (K3s) cluster with cross-node SDN routing, NFS storage, and <15s automated failover.
+  > `Kubernetes (K3s)` `SDN` `Docker` `Linux` `CI/CD`
+
+- 🤖 **PeaceBot: Real-Time Conflict Resolution Bot**
+  > Multilingual Discord bot detecting toxic escalation and providing context-aware mediation, backed by an event-driven AWS serverless architecture.
+  > `AWS (ECS Fargate, SageMaker, DynamoDB)` `Terraform` `NLP` `Redis`
+
+- 📊 **Thailand Election Open Data Pipeline**
+  > End-to-end data pipeline with OCR extraction, fuzzy matching, and automated validation for scanned election sheets, achieving 95%+ accuracy.
+  > `Python` `OCR` `Data Engineering` `BI Dashboard`
 
 ---
 <!--div align="center">
